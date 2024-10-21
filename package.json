@@ -17,6 +17,7 @@
     "spotifydl-x": "0.3.5",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@distube/ytdl-core": "latest",
+    "@vitalets/google-translate-api": "^9.2.0",
     "@ruhend/scraper": "npm:ruhend-scraper",
     "ytsearch-venom": "^1.0.0",
     "google-tts-api": "^2.0.2",
